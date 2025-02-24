@@ -23,3 +23,4 @@ Fix typo in README
 Fix broken link
 Refactor core logic
 Improve error handling
+Rewrite function Y
