@@ -21,3 +21,4 @@ Change theme color
 Update configuration
 Fix typo in README
 Fix broken link
+Refactor core logic
