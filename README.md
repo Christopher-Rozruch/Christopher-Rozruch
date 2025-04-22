@@ -18,3 +18,4 @@ Tweak margin and padding
 Fix typo in README
 Fix typo in README
 Change theme color
+Update configuration
