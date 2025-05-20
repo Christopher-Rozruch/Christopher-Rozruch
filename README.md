@@ -19,3 +19,4 @@ Fix typo in README
 Fix typo in README
 Change theme color
 Update configuration
+Fix typo in README
