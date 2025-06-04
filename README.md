@@ -24,3 +24,4 @@ Fix broken link
 Refactor core logic
 Improve error handling
 Rewrite function Y
+Fix typo in README
